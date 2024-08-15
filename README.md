@@ -1,4 +1,4 @@
-```markdown
+
 # 🎥 Streamline - YouTube Clone
 
 Streamline is a minimalist video streaming platform inspired by YouTube. It replicates and simplifies core YouTube functionalities, focusing on user experience and a streamlined design.
